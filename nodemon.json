@@ -1,5 +1,5 @@
 {
-  "ext": "js,json",
-  "ignore": ["node_modules"],
-  "watch": ["./server/init.js"]
+	"ext": "js,json",
+	"ignore": ["node_modules"],
+	"watch": ["server\\init.js"]
 }
